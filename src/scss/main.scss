@@ -1,0 +1,10 @@
+@import '../../node_modules/bulma/bulma.sass';
+
+.move-enter-active, .move-level-active  {
+  transform: translateX(0);
+  transition: all .3s linear;
+}
+
+.move-enter, .move-level-to {
+  transform: translateX(100%);
+}
