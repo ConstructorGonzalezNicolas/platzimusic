@@ -1,6 +1,8 @@
 # platzi-music
 
-> App curso Vue.js de Platzi
+> App creada con vue (2), llama a la api de spotify y renderiza y reproduce resultados segun una busqueda
+
+![texto cualquiera por si no carga la imagen](https://github.com/nicolasgonzalezgonzanlez/platzimusic/blob/master/news.gif?raw=true)
 
 ## Build Setup
 
